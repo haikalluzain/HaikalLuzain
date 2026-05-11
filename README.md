@@ -23,30 +23,77 @@ I'm a Software Engineer based in Jakarta, Indonesia with 5+ years of experience 
 
 ## Connect With Me
 
+[//]: # ([![website]&#40;./images/globe-light.svg&#41;]&#40;https://codestackr.com#gh-light-mode-only&#41;)
+
+[//]: # ([![website]&#40;./images/globe-dark.svg&#41;]&#40;https://codestackr.com#gh-dark-mode-only&#41;)
 &nbsp;&nbsp;
-[![LinkedIn](./images/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/haikal-luzain)
-[![LinkedIn](./images/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/haikal-luzain)
+[![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/haikal-luzain-a49377186#gh-light-mode-only)
+[![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/haikal-luzain-a49377186#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Instagram](./images/instagram-light.svg#gh-light-mode-only)](https://www.instagram.com/hfluzain)
-[![Instagram](./images/instagram-dark.svg#gh-dark-mode-only)](https://www.instagram.com/hfluzain)
+[![website](./images/instagram-light.svg)](https://www.instagram.com/hfluzain#gh-light-mode-only)
+[![website](./images/instagram-dark.svg)](https://www.instagram.com/hfluzain#gh-dark-mode-only)
+
+[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">]()
 
 ## Languages and Tools
 
 ### Backend
 
-<a href="https://go.dev/"><img alt="Go" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></a>&nbsp;&nbsp;<a href="https://www.php.net/"><img alt="PHP" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>&nbsp;&nbsp;<a href="https://laravel.com/"><img alt="Laravel" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></a>&nbsp;&nbsp;<a href="https://nodejs.org/"><img alt="Node.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>&nbsp;&nbsp;<a href="https://expressjs.com/"><img alt="Express.js" width="36" height="36" src="./images/express-dark.svg#gh-light-mode-only" /></a><a href="https://expressjs.com/"><img alt="Express.js" width="36" height="36" src="./images/express-light.svg#gh-dark-mode-only" /></a>&nbsp;&nbsp;<a href="https://dev.java/"><img alt="Java" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>&nbsp;&nbsp;<a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.python.org/"><img alt="Python" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&nbsp;&nbsp;<a href="https://kotlinlang.org/"><img alt="Kotlin" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /></a>
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="margin: 10px;" />](https://go.dev/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="margin: 10px;" />](https://www.php.net/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="margin: 10px;" />](https://laravel.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin: 10px;" />](https://nodejs.org/)
+[<img align="left" width="30px" src="./images/express-dark.svg" style="margin: 10px;" />](https://expressjs.com#gh-light-mode-only)
+[<img align="left" width="30px" src="./images/express-light.svg" style="margin: 10px;" />](https://expressjs.com#gh-dark-mode-only)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px;" />](https://dev.java/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="margin: 10px;" />](https://spring.io/projects/spring-boot)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 10px;" />](https://www.python.org/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="margin: 10px;" />](https://kotlinlang.org/)
+
+<br clear="left" />
 
 ### Frontend
 
-<a href="https://www.javascript.com/"><img alt="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.typescriptlang.org/"><img alt="TypeScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>&nbsp;&nbsp;<a href="https://react.dev/"><img alt="React" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>&nbsp;&nbsp;<a href="https://nextjs.org/"><img alt="Next.js" width="36" height="36" src="./images/nextjs-dark.svg#gh-light-mode-only" /></a><a href="https://nextjs.org/"><img alt="Next.js" width="36" height="36" src="./images/nextjs-light.svg#gh-dark-mode-only" /></a>&nbsp;&nbsp;<a href="https://vuejs.org/"><img alt="Vue.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a>&nbsp;&nbsp;<a href="https://nuxt.com/"><img alt="Nuxt.js" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>&nbsp;&nbsp;<a href="https://tailwindcss.com/"><img alt="Tailwind CSS" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>&nbsp;&nbsp;<a href="https://sass-lang.com/"><img alt="Sass" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></a>
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 10px;" />](https://www.javascript.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 10px;" />](https://www.typescriptlang.org/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin: 10px;" />](https://react.dev/)
+[<img align="left" width="30px" src="./images/nextjs-dark.svg" style="margin: 10px;" />](https://nextjs.org#gh-light-mode-only)
+[<img align="left" width="30px" src="./images/nextjs-light.svg" style="margin: 10px;" />](https://nextjs.org#gh-dark-mode-only)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="margin: 10px;" />](https://vuejs.org/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" style="margin: 10px;" />](https://nuxt.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="margin: 10px;" />](https://tailwindcss.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="margin: 10px;" />](https://sass-lang.com/)
+
+<br clear="left" />
 
 ### Databases, Search, and Cloud
 
-<a href="https://www.mysql.com/"><img alt="MySQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.mongodb.com/"><img alt="MongoDB" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>&nbsp;&nbsp;<a href="https://redis.io/"><img alt="Redis" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.elastic.co/elasticsearch"><img alt="Elasticsearch" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.docker.com/"><img alt="Docker" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>&nbsp;&nbsp;<a href="https://aws.amazon.com/"><img alt="AWS" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>&nbsp;&nbsp;<a href="https://firebase.google.com/"><img alt="Firebase" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.digitalocean.com/"><img alt="DigitalOcean" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" /></a>&nbsp;&nbsp;<a href="https://vercel.com/"><img alt="Vercel" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /></a>
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin: 10px;" />](https://www.mysql.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin: 10px;" />](https://www.postgresql.org/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin: 10px;" />](https://mongodb.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="margin: 10px;" />](https://redis.io/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="margin: 10px;" />](https://www.elastic.co/elasticsearch)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="margin: 10px;" />](https://www.docker.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="margin: 10px;" />](https://aws.amazon.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="margin: 10px;" />](https://firebase.google.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" style="margin: 10px;" />](https://www.digitalocean.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="margin: 10px;" />](https://vercel.com/)
+
+<br clear="left" />
 
 ### Tools
 
-<a href="https://git-scm.com/"><img alt="Git" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>&nbsp;&nbsp;<a href="https://github.com/"><img alt="GitHub" width="36" height="36" src="./images/github-light.svg#gh-light-mode-only" /></a><a href="https://github.com/"><img alt="GitHub" width="36" height="36" src="./images/github-dark.svg#gh-dark-mode-only" /></a>&nbsp;&nbsp;<a href="https://code.visualstudio.com/"><img alt="VS Code" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/"><img alt="JetBrains" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.prisma.io/"><img alt="Prisma" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/"><img alt="npm" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a>
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 10px;" />](https://git-scm.com/)
+[<img align="left" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="margin: 10px;" />](https://github.com#gh-dark-mode-only)
+[<img align="left" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="margin: 10px;" />](https://github.com#gh-light-mode-only)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin: 10px;" />](https://code.visualstudio.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="margin: 10px;" />](https://jetbrains.com/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" style="margin: 10px;" />](https://www.prisma.io/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="margin: 10px;" />](https://www.npmjs.com/)
+
+<br clear="left" />
 
 ## Platforms and Integrations
 
